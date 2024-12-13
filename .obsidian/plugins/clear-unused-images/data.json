@@ -1,0 +1,7 @@
+{
+  "deleteOption": "system-trash",
+  "logsModal": true,
+  "excludedFolders": "模块doc/uart,",
+  "ribbonIcon": true,
+  "excludeSubfolders": false
+}

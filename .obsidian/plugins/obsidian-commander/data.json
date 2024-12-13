@@ -1,0 +1,57 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "editor:toggle-source",
+      "icon": "lucide-code-2",
+      "name": "切换实时阅览/源码模式",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:toggle-excalidraw-view",
+      "icon": "binary",
+      "name": "Excalidraw: 在 Excalidraw 和 Markdown 模式之间切换",
+      "mode": "any",
+      "color": "#8652ff"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed",
+      "icon": "brush",
+      "name": "Excalidraw: 新建绘图 - 于新面板 - 并将其嵌入（形如 ![[drawing]]）到当前文档",
+      "mode": "any",
+      "color": "#8652ff"
+    },
+    {
+      "id": "obsidian-quiet-outline:quiet-outline",
+      "icon": "align-left",
+      "name": "Quiet Outline: Quiet Outline",
+      "mode": "any",
+      "color": "#8652ff"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

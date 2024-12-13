@@ -1,0 +1,24 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "fileSortOrder": "byModifiedTime",
+  "showLineNumber": true,
+  "lineWrap": true,
+  "vimMode": false,
+  "attachmentFolderPath": "./mk.att",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "showFrontmatter": false
+}

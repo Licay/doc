@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 15,
+  "theme": "system",
+  "translucency": false,
+  "interfaceFontFamily": "CodeNewRoman NF,终端更纱黑体-简 Nerd,等线",
+  "textFontFamily": "CodeNewRoman NF,终端更纱黑体-简 Nerd,等线",
+  "monospaceFontFamily": "终端更纱黑体-简 Nerd,CodeNewRoman NF",
+  "accentColor": "",
+  "nativeMenus": false,
+  "showViewHeader": false
+}

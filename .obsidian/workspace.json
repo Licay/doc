@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "618df1531ec6001d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a01b4785cb76b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a5b5f072fcf0bf2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcb30676da7785b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "764312fcff8b3188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5f1dc37e603f9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "57406229e0a2cddd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4026fc51a4c86152",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "ec24450801aa9bc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8319b510c53ffc75",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf7b0d685896103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d183a0ea719b3a6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "8832163505bc9c9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "58107ff931f69a68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:切换实时阅览/源码模式": false,
+      "cmdr:Excalidraw: 在 Excalidraw 和 Markdown 模式之间切换": false,
+      "cmdr:Excalidraw: 新建绘图 - 于新面板 - 并将其嵌入（形如 ![[drawing]]）到当前文档": false,
+      "cmdr:Quiet Outline: Quiet Outline": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "0a5b5f072fcf0bf2",
+  "lastOpenFiles": [
+    "linux smp/linux multi-core processors.md"
+  ]
+}
